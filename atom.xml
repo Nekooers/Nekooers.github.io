@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nekooers &#39;s Blog</title>
+  
+  
+  <link href="http://nekooers.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://nekooers.github.io/"/>
+  <updated>2023-12-27T14:42:19.236Z</updated>
+  <id>http://nekooers.github.io/</id>
+  
+  <author>
+    <name>Nekooers</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C语言学习笔记-10</title>
+    <link href="http://nekooers.github.io/2023/12/27/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-10/"/>
+    <id>http://nekooers.github.io/2023/12/27/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-10/</id>
+    <published>2023-12-27T03:41:08.000Z</published>
+    <updated>2023-12-27T14:42:19.236Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;课程回顾&quot;&gt;&lt;a href=&quot;#课程回顾&quot; class=&quot;headerlink&quot; title=&quot;课程回顾:&quot;&gt;&lt;/a&gt;课程回顾:&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C语言" scheme="http://nekooers.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言学习笔记-9</title>
+    <link href="http://nekooers.github.io/2023/12/25/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-9/"/>
+    <id>http://nekooers.github.io/2023/12/25/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-9/</id>
+    <published>2023-12-25T03:20:11.000Z</published>
+    <updated>2023-12-25T14:16:56.160Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;课程回顾&quot;&gt;&lt;a href=&quot;#课程回顾&quot; class=&quot;headerlink&quot; title=&quot;课程回顾:&quot;&gt;&lt;/a&gt;课程回顾:&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C语言" scheme="http://nekooers.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言学习笔记-8</title>
+    <link href="http://nekooers.github.io/2023/12/20/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-8/"/>
+    <id>http://nekooers.github.io/2023/12/20/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-8/</id>
+    <published>2023-12-20T03:24:49.000Z</published>
+    <updated>2023-12-24T10:56:55.203Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;课程回顾&quot;&gt;&lt;a href=&quot;#课程回顾&quot; class=&quot;headerlink&quot; title=&quot;课程回顾:&quot;&gt;&lt;/a&gt;课程回顾:&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C语言" scheme="http://nekooers.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言学习笔记-7</title>
+    <link href="http://nekooers.github.io/2023/12/18/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-7/"/>
+    <id>http://nekooers.github.io/2023/12/18/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-7/</id>
+    <published>2023-12-18T03:24:45.000Z</published>
+    <updated>2023-12-25T14:22:22.647Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;课程回顾&quot;&gt;&lt;a href=&quot;#课程回顾&quot; class=&quot;headerlink&quot; title=&quot;课程回顾&quot;&gt;&lt;/a&gt;课程回顾&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C语言" scheme="http://nekooers.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言学习笔记-6</title>
+    <link href="http://nekooers.github.io/2023/12/13/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-6/"/>
+    <id>http://nekooers.github.io/2023/12/13/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-6/</id>
+    <published>2023-12-13T03:24:40.000Z</published>
+    <updated>2023-12-25T14:23:27.234Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;课程回顾&quot;&gt;&lt;a href=&quot;#课程回顾&quot; class=&quot;headerlink&quot; title=&quot;课程回顾:&quot;&gt;&lt;/a&gt;课程回顾:&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C语言" scheme="http://nekooers.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言学习笔记-5</title>
+    <link href="http://nekooers.github.io/2023/12/11/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-5/"/>
+    <id>http://nekooers.github.io/2023/12/11/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-5/</id>
+    <published>2023-12-11T03:24:35.000Z</published>
+    <updated>2023-12-23T04:40:23.182Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;课程回顾&quot;&gt;&lt;a href=&quot;#课程回顾&quot; class=&quot;headerlink&quot; title=&quot;课程回顾:&quot;&gt;&lt;/a&gt;课程回顾:&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C语言" scheme="http://nekooers.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言学习笔记-4</title>
+    <link href="http://nekooers.github.io/2023/12/06/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-4/"/>
+    <id>http://nekooers.github.io/2023/12/06/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-4/</id>
+    <published>2023-12-06T03:18:30.000Z</published>
+    <updated>2023-12-23T04:41:20.894Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;课程回顾&quot;&gt;&lt;a href=&quot;#课程回顾&quot; class=&quot;headerlink&quot; title=&quot;课程回顾&quot;&gt;&lt;/a&gt;课程回顾&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C语言" scheme="http://nekooers.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言学习笔记-3</title>
+    <link href="http://nekooers.github.io/2023/12/04/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-3/"/>
+    <id>http://nekooers.github.io/2023/12/04/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-3/</id>
+    <published>2023-12-04T02:43:25.000Z</published>
+    <updated>2023-12-23T04:42:17.226Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;课程回顾&quot;&gt;&lt;a href=&quot;#课程回顾&quot; class=&quot;headerlink&quot; title=&quot;课程回顾&quot;&gt;&lt;/a&gt;课程回顾&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C语言" scheme="http://nekooers.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言学习笔记-2</title>
+    <link href="http://nekooers.github.io/2023/11/29/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-2/"/>
+    <id>http://nekooers.github.io/2023/11/29/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-2/</id>
+    <published>2023-11-29T03:24:20.000Z</published>
+    <updated>2023-12-23T04:43:29.549Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;课程回顾&quot;&gt;&lt;a href=&quot;#课程回顾&quot; class=&quot;headerlink&quot; title=&quot;课程回顾&quot;&gt;&lt;/a&gt;课程回顾&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C语言" scheme="http://nekooers.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言学习笔记-1</title>
+    <link href="http://nekooers.github.io/2023/11/27/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-1/"/>
+    <id>http://nekooers.github.io/2023/11/27/C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-1/</id>
+    <published>2023-11-27T03:24:14.000Z</published>
+    <updated>2023-12-23T04:48:07.329Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;准备事项&quot;&gt;&lt;a href=&quot;#准备事项&quot; class=&quot;headerlink&quot; title=&quot;准备事项&quot;&gt;&lt;/a&gt;准备事项&lt;/h3&gt;&lt;p&gt;开发工具:&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C语言" scheme="http://nekooers.github.io/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+</feed>
